@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|c:\\users\\administrator\\source\\repos\\vending machine\\vending machine\\interface\\ivendingmachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|solutionrelative:vending machine\\interface\\ivendingmachinestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|c:\\users\\administrator\\source\\repos\\vending machine\\vending machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|solutionrelative:vending machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|c:\\users\\administrator\\source\\repos\\vending machine\\vending machine\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|solutionrelative:vending machine\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|c:\\users\\administrator\\source\\repos\\vending machine\\vending machine\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|solutionrelative:vending machine\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|c:\\users\\administrator\\source\\repos\\vending machine\\vending machine\\services\\insertamountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|solutionrelative:vending machine\\services\\insertamountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|c:\\users\\administrator\\source\\repos\\vending machine\\vending machine\\services\\disperseitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|solutionrelative:vending machine\\services\\disperseitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|c:\\users\\administrator\\source\\repos\\vending machine\\vending machine\\services\\idleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|solutionrelative:vending machine\\services\\idleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|c:\\users\\administrator\\source\\repos\\vending machine\\vending machine\\inmemory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|solutionrelative:vending machine\\inmemory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|c:\\users\\administrator\\source\\repos\\vending machine\\vending machine\\dto\\vendoritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|solutionrelative:vending machine\\dto\\vendoritems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|c:\\users\\administrator\\source\\repos\\vending machine\\vending machine\\vending machine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0468D7E3-2735-4851-9BB3-AE5CF35F9DF9}|Vending Machine\\Vending Machine.csproj|solutionrelative:vending machine\\vending machine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "Vending Machine\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Services\\ItemService.cs",
+              "RelativeToolTip": "Vending Machine\\Services\\ItemService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:00:53.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertAmountService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Services\\InsertAmountService.cs",
+              "RelativeDocumentMoniker": "Vending Machine\\Services\\InsertAmountService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Services\\InsertAmountService.cs",
+              "RelativeToolTip": "Vending Machine\\Services\\InsertAmountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:18:53.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Vending Machine\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Services\\UserService.cs",
+              "RelativeToolTip": "Vending Machine\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:15:13.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisperseItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Services\\DisperseItemService.cs",
+              "RelativeDocumentMoniker": "Vending Machine\\Services\\DisperseItemService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Services\\DisperseItemService.cs",
+              "RelativeToolTip": "Vending Machine\\Services\\DisperseItemService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:19:43.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Program.cs",
+              "RelativeDocumentMoniker": "Vending Machine\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Program.cs",
+              "RelativeToolTip": "Vending Machine\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:02:08.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IVendingMachineState.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Interface\\IVendingMachineState.cs",
+              "RelativeDocumentMoniker": "Vending Machine\\Interface\\IVendingMachineState.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Interface\\IVendingMachineState.cs",
+              "RelativeToolTip": "Vending Machine\\Interface\\IVendingMachineState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:11:07.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IdleService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Services\\IdleService.cs",
+              "RelativeDocumentMoniker": "Vending Machine\\Services\\IdleService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Services\\IdleService.cs",
+              "RelativeToolTip": "Vending Machine\\Services\\IdleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:45:22.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\InMemory\\Inventory.cs",
+              "RelativeDocumentMoniker": "Vending Machine\\InMemory\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\InMemory\\Inventory.cs",
+              "RelativeToolTip": "Vending Machine\\InMemory\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:33:57.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VendorItems.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\DTO\\VendorItems.cs",
+              "RelativeDocumentMoniker": "Vending Machine\\DTO\\VendorItems.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\DTO\\VendorItems.cs",
+              "RelativeToolTip": "Vending Machine\\DTO\\VendorItems.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T08:05:53.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vending Machine",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Vending Machine.csproj",
+              "RelativeDocumentMoniker": "Vending Machine\\Vending Machine.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Vending Machine\\Vending Machine\\Vending Machine.csproj",
+              "RelativeToolTip": "Vending Machine\\Vending Machine.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T08:09:39.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
